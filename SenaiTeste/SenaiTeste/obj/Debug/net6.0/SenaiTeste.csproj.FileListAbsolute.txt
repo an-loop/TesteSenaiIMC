@@ -1,0 +1,12 @@
+C:\Users\amand\OneDrive\Documentos\Senai - projetos\SenaiTeste\SenaiTeste\bin\Debug\net6.0\SenaiTeste.deps.json
+C:\Users\amand\OneDrive\Documentos\Senai - projetos\SenaiTeste\SenaiTeste\bin\Debug\net6.0\SenaiTeste.dll
+C:\Users\amand\OneDrive\Documentos\Senai - projetos\SenaiTeste\SenaiTeste\bin\Debug\net6.0\SenaiTeste.pdb
+C:\Users\amand\OneDrive\Documentos\Senai - projetos\SenaiTeste\SenaiTeste\obj\Debug\net6.0\SenaiTeste.csproj.AssemblyReference.cache
+C:\Users\amand\OneDrive\Documentos\Senai - projetos\SenaiTeste\SenaiTeste\obj\Debug\net6.0\SenaiTeste.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amand\OneDrive\Documentos\Senai - projetos\SenaiTeste\SenaiTeste\obj\Debug\net6.0\SenaiTeste.AssemblyInfoInputs.cache
+C:\Users\amand\OneDrive\Documentos\Senai - projetos\SenaiTeste\SenaiTeste\obj\Debug\net6.0\SenaiTeste.AssemblyInfo.cs
+C:\Users\amand\OneDrive\Documentos\Senai - projetos\SenaiTeste\SenaiTeste\obj\Debug\net6.0\SenaiTeste.csproj.CoreCompileInputs.cache
+C:\Users\amand\OneDrive\Documentos\Senai - projetos\SenaiTeste\SenaiTeste\obj\Debug\net6.0\SenaiTeste.dll
+C:\Users\amand\OneDrive\Documentos\Senai - projetos\SenaiTeste\SenaiTeste\obj\Debug\net6.0\refint\SenaiTeste.dll
+C:\Users\amand\OneDrive\Documentos\Senai - projetos\SenaiTeste\SenaiTeste\obj\Debug\net6.0\SenaiTeste.pdb
+C:\Users\amand\OneDrive\Documentos\Senai - projetos\SenaiTeste\SenaiTeste\obj\Debug\net6.0\ref\SenaiTeste.dll
